@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding="UTF-8"?>
+
+<!ELEMENT catarina (ressource)* >
+
+<!ELEMENT ressource (type* , profil* , langue* , activite_langagiere*)>
+	<!ATTLIST ressource 
+		nom CDATA #IMPLIED
+		description CDATA #IMPLIED
+		url CDATA #IMPLIED
+		auteur CDATA #IMPLIED
+		version CDATA #IMPLIED			
+		repertoire (Oui|Non) #IMPLIED
+		ressource_fonctionnement CDATA #IMPLIED	
+		ressource_analogue CDATA #IMPLIED		
+	>
+<!ELEMENT type EMPTY>
+	<!ATTLIST type
+		nom CDATA #IMPLIED
+	>
+	
+<!ELEMENT profil EMPTY>
+	<!ATTLIST profil
+		nom CDATA #IMPLIED
+	>
+
+<!ELEMENT langue EMPTY>
+	<!ATTLIST langue
+		nom CDATA #IMPLIED
+	>
+
+<!ELEMENT activite_langagiere EMPTY>
+	<!ATTLIST activite_langagiere
+		nom CDATA #IMPLIED
+	>	
+	
+
+
+	
+	
+	
+	

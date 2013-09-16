@@ -1,0 +1,291 @@
+body{
+	background-color : grey;
+	height: 100%;
+}
+
+html{
+	height: 100%;
+}
+
+a{
+	color : black;
+}
+
+label {
+	cursor : default;
+}
+
+input{
+	width : 80%;
+}
+
+textarea{
+	width : 80%;
+}
+
+.accueil{
+	margin-bottom:5px;
+	margin-left:20%;	
+	padding-top: 5px;
+	padding-bottom:5px;
+	max-width:85%;
+	width : auto;
+}
+
+.accueil p{
+	font-size: 90%;
+	margin: 10px;
+	display:block;
+
+}
+
+
+.accueil p:nth-child(2){
+	font-size: 120%;
+}
+
+
+.navbar .nav {
+	float: none;
+}
+
+.general {
+	height : 100%;
+}
+
+.general .contain{
+	background-color : white;
+	min-height: 100%;
+	margin-bottom: 0px;
+	padding:10px;
+ 
+}
+
+
+.titre {
+	text-align : center;
+}
+
+.titre p{
+	font-size:120%;
+}
+
+.titre a:hover{
+	color : black; 
+	text-decoration: none;
+	font-style: italic;
+}
+
+
+.page-header{
+	text-align : center;
+	margin-top: 0px;
+}
+
+.arborescence{
+	text-align : left;
+	color: #999999;
+	font-variant : small-caps;
+}
+
+
+.span4 button[type=submit] {
+	width:80%;
+	height : 100px;
+	margin-left:5px;
+	box-shadow:1px 1px 1px #1E90FF;
+	cursor:pointer;
+	margin-top : 15px;
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+ }
+ 
+ .soustype input[type=submit] {
+	width:80%;
+ }
+
+
+
+
+
+.ressource {
+	text-align : left;
+	padding: 9px 15px;
+	border-top: 1px solid #e5e5e5;
+}
+
+.btn-liste{
+	min-width : 100%;
+	height : 60px;
+	white-space: pre-wrap;       /* css-3 */
+	white-space: -moz-pre-wrap;  /* Mozilla, since 1999 */
+	white-space: -pre-wrap;      /* Opera 4-6 */
+	white-space: -o-pre-wrap;    /* Opera 7 */
+	word-wrap: break-word;       /* Internet Explorer 5.5+ */
+	margin:10%;
+}
+.btn-group{
+	width: 90%;
+}
+
+
+
+
+.liste{
+	text-align : justify;
+	margin : 10px;
+}
+
+.row .liste{
+	margin-left: 10px;
+}
+
+
+.frame {
+    border: 1px solid;
+	margin-top: 10px;
+}
+
+.search {
+	margin-top : 10px;}
+
+.recherche{
+	padding: 5px;
+}
+
+
+
+.navbar {
+	margin-bottom : 0px;
+}
+
+.nom_ressource {
+	margin-top : 50px;
+	text-align : left;
+}
+
+
+
+.caret-recherche {
+	vertical-align : middle;
+}
+
+.muted a{
+	color: #999999;
+	font-variant : small-caps;
+}
+
+
+.credit{
+	text-align : center;
+	height: 350px;
+	padding-top: 50px;
+}
+
+.icon{
+	float: left;
+	width :50px;
+}
+
+.help-inline{
+	font-size:70%;
+}
+
+
+#s2id_langue{
+	width : 100%;
+}
+
+#s2id_pour{
+	width : 100%;
+}
+
+#s2id_activite{
+	width : 100%;
+}
+
+.accordion-heading .accordion_cat{
+	padding : 0px;
+	margin : 0px;
+}
+
+
+
+.footer{
+	position:static;
+	bottom:0px;
+	height:50px;
+	width : 90%;
+}
+
+.foot_contact{
+	margin-left : 60%;
+}
+
+
+.pagination{
+	margin-bottom : 0px;
+	margin-top : 20px; 
+}
+
+.pagination ul{
+	margin-top:30px;
+}
+
+#content{
+	padding-bottom: 5px;
+}
+
+
+
+/*Système de notation 
+	ul.notes-echelle {
+		margin:10px;
+		margin-left: 20%;
+		padding:0;
+		font:.75em/1.2 Arial, Helvetica, sans-serif;
+	}
+	ul.notes-echelle li {
+		float:left;
+		margin:0;
+		padding:0;
+		list-style:none;
+		min-width:20px;
+		min-height:20px;
+	}
+
+	* html ul.notes-echelle.js li {
+		width:20px;
+		height:20px;
+	}
+	ul.notes-echelle li label {
+		display:block;
+		text-align:center;
+		line-height:20px;
+		background:url(../img/etoiles.gif) center top no-repeat;
+		cursor:pointer;
+		color :white;
+	}
+
+	ul.notes-echelle li.note-off label {
+		background-position:center -60px;
+	}
+
+	ul.notes-echelle.js input {
+		position:absolute;
+		left:-999%;
+	}
+	
+	/* Effet lorsque une note est cochée 
+	 ul.notes-echelle li.note-checked {
+		font-weight:bold;
+	}
+	/* Effet lorsque une note est tabulée au clavier 
+	 ul.notes-echelle.js li.note-focus {
+		outline:1px dotted #000;
+	}
+	
+*/

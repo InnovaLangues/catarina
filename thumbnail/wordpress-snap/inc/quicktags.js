@@ -1,0 +1,1 @@
+edButtons[edButtons.length] = new edButton( 'snap', 'Add WordPress Snap', '[snap url="" alt="My Thumbnail" w="400" h="300" link="on"]', '', 's', '-1');

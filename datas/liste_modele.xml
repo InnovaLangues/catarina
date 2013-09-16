@@ -1,0 +1,675 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE catarina SYSTEM "catarina.dtd">
+
+<catarina>
+<!--Outils logiciels facilitant la communication et la collaboration-->
+	<ressource nom = "Blogger" description = "Blogger est une plateforme logicielle en ligne gratuite qui facilite la publication d'un blog, gratuit et sans publicité. Un blog est un type de site web – ou une partie d'un site web – utilisé pour la publication périodique et régulière de nouveaux articles, généralement succincts. Il est facile de personnaliser la mise en page, et d'ajouter des photos et textes. Il est également possible pour les utilisateurs de poster des commentaires sur les articles." url = "www.blogger.com" auteur = "Google Inc." version = "2003" repertoire = "Non" ressource_fonctionnement = "Video de présentation en anglais : http://www.youtube.com/watch?v=Nt6zgbIIJhU ; Présentation en anglais http://www.aplanet-project.eu/Resources/ICT_Tools/III_CATEGORY_Blogging.pdf" ressource_analogue = "">
+		<type nom = "Plateformes sociales/Blogs" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+		<langue nom = "arabe, bengali, bulgare, catalan, chinois, croate, tchèque, danois, néerlandais, anglais, philippin, finnois, français, allemand, grec, goujarati, hébreu, hindi, hongrois, indonésien, italien, japonais, kannada, coréen, letton, lituanien, malais, malayalam, marathi, norvégien, oriya, persan, polonais, portugais, roumain, russe, serbe, slovaque, slovène, espagnol, suédois, tamoul, télougou, thaï, turc, ukrainien, vietnamien" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>	
+	<ressource nom = "Edublog" description = "Plateforme (en anglais) de création de blog à des fins éducatifs. Avec de nombreuses fonctions, il reste simple d'utilisation." url = "http://edublogs.org/ " auteur = "Edublog" version = "2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Plateformes sociales/Blogs" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Wordpress" description = "WordPress est un système de gestion de contenu libre écrit en PHP, reposant sur une base de données MySQL. WordPress est surtout utilisé comme moteur de blog, mais ses fonctionnalités lui permettent également de gérer n'importe quel site web." url = "http://wordpress.org" auteur = "Automattic" version = "3.5.1 (janvier 2013)" repertoire = "Non" ressource_fonctionnement = "http://fr.wikipedia.org/wiki/WordPress" ressource_analogue = "">
+		<type nom = "Plateformes sociales/Blogs" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+		<ressource nom = "StudyRoom" description = "Ce site permet de créer une classe virtuelle pour faciliter la création de liens apprenants-enseignants et entre apprenants. Il contient des outils collaboratifs tels qu'un tableau blanc 'en temps réel' (realtime whiteboard), un éditeur de texte, un gestionnaire de documents. Un tableau est également disponible pour poster questions et réponses, pour des travaux de groupes. Un système de points pour récompenser les élèves les plus assidûs est mis en place." url = "http://www.getstudyroom.com/" auteur = "Luma Education" version = "" repertoire = "Non" ressource_fonctionnement = "Les réseaux sociaux : Des outils pédagogiques ? Comment les utiliser en classe... http://spiralconnect.univ-lyon1.fr/" ressource_analogue = " OpenStudy http://openstudy.com/">
+		<type nom = "Réseaux sociaux/Educatifs" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "Plateformes e-learning et e-formation" description = "Ce site répertorie plus d'une centaines de plateformes séparées en trois catégories : plateformes open-source, plateformes publiques ou gratuites et plateformes commerciales avec spécification des langues. Elles sont utiles à la Formation Ouverte et A Distance (FOAD)" url = "http://cursus.edu/institutions-formations-ressources/formation/13486/plates-formes-learning-formation-2012/" auteur = "Thot Cursus inc." version = "" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Réseaux sociaux/Educatifs" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Edmodo" description = "Edmodo (réseau social) est une plateforme pour dialoguer de façon sécuritaire avec des personnes œuvrant dans le domaine de l'éducation. On y retrouve aussi une banque de ressources partagées par des enseignants. Le site permet aux écoles de se créer un réseau privé de communication pour le partage entre enseignants, parents et élèves. L'interface du site est en anglais, mais l'utilisateur du site peut choisir de traduire ce dernier en six langues en cliquant sur les drapeaux dans le bas à droite." url = "https://www.edmodo.com" auteur = "Edmodo" version = "2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Nixty http://www.nixty.com/">
+		<type nom = "Réseaux sociaux/Educatifs" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+		<!--Manque OpenStudy, Twitter et analogues-->
+		<!--Changer ressources analogues : StudyRoom (OpenStudy)-->
+	<ressource nom = "LiveBinders" description = "LiveBinders est un outil TICE en ligne qui va vous permettre d'organiser et de classer toutes vos ressources numériques dans des classeurs virtuels. Classer mais aussi de partager vos trouvailles avec vos collègues ou avec vos élèves. LiveBinders c'est dont une sorte d'outil de curation, un classeur virtuel dans lequel vous allez glisser des docs numériques quel que soit leur format : pages web, PDF, Document texte, images, ou vidéos. Tout est classé à l'ntéeur avec un système d'onglets (des intercalaires virtuels). Vous pouvez même créer des sous intercalaires dans un même onglet pour plus de clarté." url = "http://www.livebinders.com/" auteur = "LiveBinders, Inc." version = "2006-2013" repertoire = "Non" ressource_fonctionnement = "Intérets : http://outilstice.com/2013/01/livebinders-des-classeurs-virtuels-dans-les-nuages/" ressource_analogue = "EduClipper https://educlipper.net/ ; Delicious http://www.symbaloo.com/ ; Symbaloo http://www.symbaloo.com/ ; Evernote http://evernote.com/intl/fr/">
+		<type nom = "Diffusion/Plateforme de curation" />
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur"/>
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Pearltrees" description = "Pearltrees est un service gratuit qui permet à chacun d'organiser et partager ce qu'il aime dans internet. Suivant la logique du content curation (faire ressortir le meilleur contenu du web), ce moteur de recherche communautaire repose sur l'idée que la multiplication des contenus de natures diverses (blogs, vidéos postées, twitts, etc.) rend nécessaire une organisation nouvelle d'internet, d'inspiration plus sémantique. Le réseau d'utilisateurs de Pearltrees s'étend aujourd'hui à de nombreux pays" url = "http://www.pearltrees.com/" auteur = "Patrice Lamothe" version = "2009-2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Scoop.it! http://www.scoop.it/ ; BagTheWeb http://www.bagtheweb.com/">
+		<type nom = "Diffusion/Plateforme de curation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Diigo" description = "Diigo est un très bon service en ligne qui permet de stocker et de partager facilement vos favoris. Après avoir créé votre compte (gratuit), vous pouvez sauvegarder une page web entière, seulement un extrait, une image, une vidéo ou en faire une capture d'écran, surligner un passage, ajouter des annotations et des tags, créer une liste d'articles sur un sujet donné et le publier sous forme de slideshow autonome et interactif (fonction WebSlide). Vous pouvez partager (ou non en mode privé) vos découvertes avec la communauté Diigo, par mail, sur Twitter ou sur un blog (Blogger, WordPress, etc) et plus encore. Même si ce service est en anglais, il est assez facile à prendre en main et s'avère être un bon outil de veille pour collecter des informations qu'on pourra se resservir par la suite." url = "https://www.diigo.com/" auteur = "Diigo Inc" version = "2012" repertoire = "Non" ressource_fonctionnement = "Tutoriels vidéos : http://bibliolab.fr/cms/content/comment-fonctionne-diigo ; Evolution de Delicious en Diigo : http://cursus.edu/article/9750/diigo-mode-emploi-pour-debutants/ ; Présentation de Diigo http://wiki-urfist.unice.fr/wiki_urfist/index.php/M%C3%A9moriser_et_partager_ses_lectures_d%27articles_avec_Diigo" ressource_analogue = "">
+		<type nom = "Diffusion/Plateforme de curation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Wix.com" description = "Wix.com est une plateforme en ligne qui permet de créer des sites internet en HTML5 ou en Flash, des sites mobile ou encore de personnaliser des pages Facebook. En utilisant sa technologie de glisser-déposer (Drag et Drop) et son App Market, les utilisateurs peuvent intégrer différentes applications tierces sur leur site, en autres, solution e-Commerce, formulaires de contact, tchat en ligne, bons de réduction etc. Wix.com offre l’opportunité de créer des sites professionnels, et ce, sans aucune connaissance en programmation ou en design." url = "http://fr.wix.com/" auteur = "Avishai Abrahami, Nadav Abrahami et Giora Kaplan Wix" version = "2012" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Jimdo http://fr.jimdo.com/homepage ; Weebly http://www.weebly.com/?lang=fr">
+		<type nom = "Diffusion/Site web" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Dropbox" description = "Dropbox est un service de stockage (jusqu'à 2Go pour la version gratuite) et de partage de copies de fichiers locaux en ligne. Il permet la synchronisation des fichiers stockés sur différents ordinateurs. Il fonctionne de manière transparente (les sauvegardes et synchronisations sont automatiques) et le site web permet d'accéder à une copie des fichiers, mais également à leurs versions successives et à une copie des fichiers détruits." url = "www.dropbox.com" auteur = "Dropbox, Inc." version = "2.0.22 (2013)" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Google Drive https://drive.google.com/#my-drive">
+		<type nom = "Partage de documents/Stockage et partage" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Framapad" description = "Framapad est une plate-forme libre, en ligne de traitement de texte collaboratif. Elle permet la création de document (pad) et un partage en cours de création de celui-ci avec 16 personnes en simultanéé. Les contributions de chacun des utilisateurs apparaissent instantanément sur le document avec des couleurs différentes." url = "http://framapad.org/" auteur = "Framasoft" version = "" repertoire = "Non" ressource_fonctionnement = "Guide d'utilisation : http://files.framasoft.org/framapad/doc-framapad-espace-prive.pdf ; idées d'utilisations avec des tablettes http://sicep.ac-dijon.fr/spip.php?article414" ressource_analogue = "Mix Ink http://www.mixedink.com/#/_how_it_works ; Wikispaces http://www.wikispaces.com/ ; Zoho Docs https://www.zoho.com/docs/">
+		<type nom = "Création collaborative/Traitement de texte" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Padlet" description = "Padlet est un outil collaboratif en ligne qui permet de créer et de partager des murs virtuels. Cet outil permet de remplacer le tableau de liège, les punaises, le scotch et autre gomme fixe par une présentation numérique en ligne. L’utilisation est très facile  : on insère un bloc d’informations en tapant un titre, un texte et en insérant un document (image, son, vidéo…)." url = "http://padlet.com" auteur = "Nitesh Goel et Pranav Piyush " version = "2013" repertoire = "Non" ressource_fonctionnement = "http://www.reseaumicros.fr/les-murs-virtuels-avec-padlet/ ; http://outilstice.com/2013/02/padlet-un-tableau-blanc-virtuel-pour-la-classe/" ressource_analogue = "Lino it http://en.linoit.com/ ; Stixy http://www.stixy.com/">
+		<type nom = "Création collaborative/Tableau" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "TodayMeet" description = "TodaysMeet est un bon outil TICE pour créer et proposer un espace de discussion en ligne aux participants à une conférence ou un cours. TodaysMeet a plus d’un atout pour permettre de mieux comprendre, de mieux sonder et sentir ce que pense un groupe de participants à une conférence ou une présentation. L’outil brille par sa simplicité et sa souplesse. Aucune inscription n’est demandée pour pouvoir commencer à l’utiliser. Aucun logiciel à télécharger, tout se fait à partir d’un navigateur sur un ordinateur, une tablette ou un mobile. La mise en place d’un espace de discussion via TodaysMeet prend 2 secondes montre en main. Pas besoin de longs préparatifs la veille, ici vous pouvez créer votre espace quelques secondes avant votre cours." url = "http://todaysmeet.com/" auteur = "James Socol" version = "2008–2013" repertoire = "Non" ressource_fonctionnement = "http://outilstice.com/2013/02/todaysmeet-proposez-un-espace-de-discussion-en-ligne/" ressource_analogue = "">
+		<type nom = "Envois de messages/Chat" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "Skype" description = "Skype est un logiciel gratuit qui permet aux utilisateurs de passer des appels téléphoniques via Internet. Les appels d’utilisateur à utilisateur sont gratuits, tandis que ceux vers les lignes téléphoniques fixes et les téléphones mobiles sont payants. Il existe des fonctionnalités additionnelles comme la messagerie instantanée, le transfert de fichiers et la visioconférence." url = "www.skype.com" auteur = "Microsoft Skype Division" version = "6.3.59.107 (2013)" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Outils de communication audio-visuelle/Télé-conférence" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Vyew" description = "Vyew est un service web ayant de nombreuses fonctions intéressantes pour le travail collaboratif. Permettant d'organiser en 2 clics des réunions virtuelles allant jusqu'à vingt personnes (après c'est payant), il dispose aussi des fonctionnalités suivantes : partage d'écran, tableau blanc partagé, partage de fichiers (.doc, .ppt, .xls), présentation de diaporamas (à partir d'un compte Flickr, Yahoo ou Kodak), espace de chat, invitation à des conférences téléphoniques, partager une carte interactive Yahoo Map, partager une recherche Google. Notez que l'espace créé n'est pas éphémère. Les documents que vous uploadez y sont stockés et View peut donc aussi être utilisé en mode asynchrone." url = "http://vyew.com/s/" auteur = "Simulāt, Inc." version = "2005-2013" repertoire = "Non" ressource_fonctionnement = "Présentation (en anglais) : http://fr.slideshare.net/gageuga/vyew-instant-workspace ; Vidéos tutoriel (en anglais) : http://www.youtube.com/watch?v=YCTSvOU5fUM (3') ; http://www.youtube.com/watch?v=bKtxL8I7aWs (4'30)" ressource_analogue = "">
+		<type nom = "Outils de communication audio-visuelle/Télé-conférence" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Voicethread" description = "VoiceThread est un service en ligne gratuit qui permet d’enregistrer des voix sur des textes ou des images. Une création VoiceThread est une collaboration sous la forme d’un diaporama multimédia qui peut contenir des images, des documents et des vidéos. Il permet aux gens de naviguer sur les pages du diaporama et de laisser des commentaires. VoiceThread peut être utilisé pour faire des exposés à l’oral avec des images mais on peut aussi collaborer et faire des commentaires. Les commentaires sur les images peuvent provenir de différentes sources : en utilisant la voix (avec un micro ou un téléphone), en écrivant du texte ou en insérant un fichier audio/vidéo (via un webcam). Il est possible de partager un VoiceThread avec des collaborateurs (jusqu'à 28 personnes) afin qu’ils ajoutent leurs propres commentaires qui s’ajoutent aux vôtres. Voicethread est intégrable dans un site d’école, sous SPIP ou dans un blog." url = "http://voicethread.com/" auteur = " VoiceThread LLC" version = "2013" repertoire = "Non" ressource_fonctionnement = "Tutoriel pour donner un cours à distance : http://laurenecastor.com/voice-thread-un-super-outil-pour-enseigner-a-distance/ ; Commenter à plusieurs avec Voicethread : http://eduscol.education.fr/ ; Tutoriel Comment utiliser VoiceThread pour commenter à l'oral et à l'écrit un document ? http://rezolumiere.ning.com/notes/index/show?noteKey=Comment_utiliser_VoiceThread_pour_commenter_%C3%A0_l%27oral_et_%C3%A0_l%27%C3%A9crit_un_document_%3F ; " ressource_analogue = "Voxopop http://www.voxopop.com/">
+		<type nom = "Outils de communication audio-visuelle/Forums vocaux" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu"/> 
+	</ressource>
+	<ressource nom = "Voki Classroom" description = "Voki est un service en ligne gratuit qui vous permet de : créer des avatars personnalisés, leur attribuer une voix (message enregistré à partir d’un micro, téléversement de fichier audio ou synthèse vocale), publier votre avatar sur un blog, site web ou réseau social, profiter des outils pédagogiques mis à disposition sur le site par la communauté d’enseignants et utilisateurs du service, gérer vos leçons et vos classes en ligne grâce à Voki Classroom (abonnement payant)." url = "http://www.voki.com/products.php" auteur = "Oddcast Inc." version = "2013" repertoire = "Non" ressource_fonctionnement = "Article de présentation http://ticefle.com/voki-un-outil-en-ligne-pour-creer-des-avatars-qui-parlent/" ressource_analogue = "">
+		<type nom = "Outils de communication audio-visuelle/Forums vocaux" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+		<activite_langagiere nom = "Production orale en continu"/> 
+	</ressource>
+	
+<!--Outils logiciels facilitant la conception -->
+	<ressource nom = "Thinglink" description = "Thinglink est un outil en ligne qui va vous permettre de créer des images interactives (insertion de fichiers sons, quizz, liens, etc.) et de les partager facilement." url = "http://www.thinglink.com/" auteur = "Thinglink" version = "2013" repertoire = "Non" ressource_fonctionnement = "http://outilstice.com/2013/02/thinglink-creer-des-images-interactives/" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création d'images intéractives" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "Glogster" description = "Glogster est un réseau social permettant aux utilisateurs de créer des posters intéractifs (ou Glogs). Un 'Glog', fusion de 'graphique' et de 'blog' et une image intéractive multimédia. Cela ressemble à un poster mais les lecteurs peuvent intéragir avec." url = "http://www.glogster.com" auteur = "Patrik Prepsl, Roman Smola, Martin Santorcl" version = "2007-2012" repertoire = "Non" ressource_fonctionnement = "Vidéos tutoriels : http://www.youtube.com/watch?v=MvC47fUANLk (1'30) ; http://www.teachertrainingvideos.com/glogster/ (23')" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création d'images intéractives" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" /> 
+	</ressource>
+	<ressource nom = "Make Beliefs Comix" description = "Ce site (en anglais) permet de créer facilement des bande-dessinées. On peut ajouter de nombreux personnages avec diverses émotions, des objets, animaux ainsi que des bulles de paroles ou de pensées. C'est très simple d'utilisation et laisse un large éventail de possibilités pour faire travailler les élèves. A la fin, il est possible de l'envoyer par mail ou de l'imprimer." url = "http://www.makebeliefscomix.com/Comix/" auteur = "Bill Zimmerman" version = "2006-2013" repertoire = "Non" ressource_fonctionnement = "- http://thedowns.wikispaces.com/Make+Beliefs+Comix (en anglais : fonctionnement et usages) ; http://edunology.com/blog/?p=194 (idées d'usage en classe) ; http://www.youtube.com/watch?v=DqTt5327UAc (vidéo 3'30 : tutoriel en anglais) ;  http://www.youtube.com/watch?v=rWBFNhJ5AbE (vidéo 10'30 : tutoriel en anglais)" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création de bandes-dessinées" />
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Toondoo" description = "Ce site en ligne permet de créer très rapidement et de façon assez intuitive des BDs. Après inscription avec création de mot de passe, les élèves peuvent réaliser leur BD en cliquant sur 'Create'. On choisit un cadre, puis selon le principe du glisser-déposer, l'on peut faire glisser des personnages, des images de fond, ses propres images préalablement importés de son PC, des phylactères, etc. (du bandeau de gauche) vers la BD du côté droit. Grâce à la barre du bas, chaque élément peut ensuite être retravaillé (agrandit ou réduit, etc.) et personnalisé de diverse manières. Une fois la BD terminée, elle peut facilement être imprimée, envoyée sur les réseaux sociaux ou intégrée dans un blog, grâce au 'code embed' fourni. " url = "http://www.toondoo.com/" auteur = "Jambav" version = "2012" repertoire = "Non" ressource_fonctionnement = "Présentation : http://fr.slideshare.net/jfljunk/how-to-create-a-toon-doo-presentation ; Vidéo tutoriel en anglais (3') http://www.youtube.com/watch?v=PgcYAAuBxDo" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création de bandes-dessinées" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Bubblr" description = "Bubblr est un outil permettant de créer des bandes-dessinées grâce à la banque de photos libres de droits flickr.com. C'est très facile d'utilisation car il suffit de chercher des images et d'ajouter des bulles." url = "http://www.pimpampum.net/bubblr/" auteur = "Pimpampum" version = "2013" repertoire = "non" ressource_fonctionnement = "Tutoriel (12') : http://www.teachertrainingvideos.com/bubblr/index.html" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création de bandes-dessinées" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Madmagz" description = "Madmagz permet de créer un magazine en ligne à partir de maquettes très réussies ce qui permet d’obtenir un résultat quasi-professionnel!" url = "http://madmagz.com/fr" auteur = "Madmagz" version = "2013" repertoire = "Non" ressource_fonctionnement = "Des élèves créent un magazine sur tablette tactile http://haute-normandie.france3.fr/info/des-eleves-creent-un-magazine-sur-tablette-tactile-73531361.html" ressource_analogue = "Bookr http://www.pimpampum.net/bookr/ ; ">
+		<type nom = "De traitement de l'image/Création de libres ou magazines" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Kerproof" description = "Kerproof est un logiciel intéractif qui permet de créer des images, mais aussi des films animés et des livres. Le graphisme est enfantin mais de nombreuses activités peuvent être faites par des apprenants de langues. A explorer !" url = "http://www.kerpoof.com/" auteur = "Disney" version = "2008-2013" repertoire = "Non" ressource_fonctionnement = "Présentation, tutoriels et idées d'utilisation en classe (en anglais) : http://techtutorials.edublogs.org/2011/10/04/kerpoof/" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création de libres ou magazines" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Bookr" description = "Bookr est un outil permettant de créer des livres d'images grâce à la banque de photos libres de droits flickr.com. C'est très facile d'utilisation car il suffit de chercher des images, d'ajouter des textes et de publier." url = "http://www.pimpampum.net/bookr/" auteur = "Pimpampum" version = "2013" repertoire = "Non" ressource_fonctionnement = "Des exemples ici : http://www.pimpampum.net/bookr/archive.php" ressource_analogue = "">
+		<type nom = "De traitement de l'image/Création de libres ou magazines" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Audacity" description = "Audacity est un logiciel libre pour la manipulation de données audio numériques. Audacity permet d'enregistrer du son numérique par le biais des entrées ligne/micro/cd des cartes sons. Il permet d'éditer (copier, coller, sectionner...) les sons sur plusieurs pistes, et il est accompagné de divers filtres et effets : pitch, tempo, réduction de bruit, éliseur, filtres de Fourier, augmentation de fréquences précises, compression, amplification, normalisation, écho, phaser, wahwah, inversion..." url = "téléchargement gratuit : http://audacity.sourceforge.net/" auteur = "Dominic Mazzoni" version = "2.0.2 (2012)" repertoire = "Non" ressource_fonctionnement = "http://fr.wikipedia.org/wiki/Audacity" ressource_analogue = "Sound Editor Pro : http://www.soundeditorpro.com/">
+		<type nom = "Creation audio/Enregistrement et traitement du son" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+	</ressource>
+	<ressource nom = "Dictation Pro" description = "Logiciel de reconnaissance vocale pour transformer l'oral en texte écrit." url = "Téléchargement gratuit : http://www.deskshare.com/lang/fr/dictation.aspx" auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "TalkItTypeIt http://www.commentcamarche.net/download/telecharger-34068839-talkittypeit ; Dragon NaturallySpeaking  	http://www.nuance.com ; Module Windows via le panneau de configuration">
+		<type nom = "Création audio/Reconnaissance vocale" />
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur" />
+	</ressource>
+	<ressource nom = "Natural Reader" description = "Logiciel de synthèse vocale pour transformer l'écrit en fichier son." url = "http://www.naturalreaders.com/index.php" auteur = "NaturalSoft Ltd" version = "" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "- Acapella http://www.acapela-group.fr/text-to-speech-interactive-demo.html ; AT T http://www2.research.att.com/~ttsweb/tts/demo.php ; YAKiToMe http://www.yakitome.com/tts/index ; Google traduction http://translate.google.fr">
+		<type nom = "Création audio/Synthèse vocale" />
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur" />
+		<langue nom = "anglais, français, allemand, espagnol, italien, suédois, arabe" />
+	</ressource>
+	<ressource nom = "Vocaroo" description = "Vocaroo est un service en ligne qui permet d'enregistrer directement une production orale depuis son ordinateur. L'enregistrement obtenu peut être soit envoyé par mail à un destinataire, soit téléchargé (format MP3, OGG, FLAC ou WAV)." url = "http://vocaroo.com" auteur = "Vocaroo" version = "2007-2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Audioboo http://audioboo.fm/">
+		<type nom = "De traitement du son/Création de podcasts" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	
+	<!--Manque AudioBoo-->
+	<!--Changer ressources analogues : Vocaroo(AudioBoo)-->
+	<ressource nom = "Photorécit" description = "Le logiciel, destiné au grand public, est très simple à utiliser et permet de créer une présentation diaporama à partir de photos avec des commentaires écrits ou oraux. Le produit final est une vidéo au format .wmv qui sera lue par Windows Media Player 10. C'est la fonction magnétophone donne la possibilité de faire travailler l'expression orale des élès. En effet, cette fonction permet de d'enregistrer un commentaire oral sur chaque image d'un diaporama. Excellent outil pour, par exemple, faire un commentaire de document iconographique, réaliser une présentation, un récit de voyage en échange" url = "téléchargement gratuit : http://www.01net.com/telecharger/windows/Multimedia/albmums_et_visionneuses/fiches/32495.html" auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "Vidéo de présentation : http://www.youtube.com/watch?v=AMlh2sRbuJo ; Comment créer un diaporama : http://www.parcourslemonde.com/dossiers/NTIC/tuto_photorecit.pdf" ressource_analogue = "Brainshark http://www.brainshark.com/mybrainshark">
+		<type nom = "De traitement vidéo/Narration numérique" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Our story" description = "Ce site permet de 'raconter des histoires' à l'aide de photos, de textes et de fichiers audios." url = "http://www.ourstory.com/" auteur = "BestSoft Consulting Ltd." version = "2005-2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "De traitement vidéo/Narration numérique" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<!--Manque myBrainshark-->
+	<!--Changer ressources analogues : Photorécit(myBrainshark)-->
+	<ressource nom = "WeVideo" description = "Plateforme collaborative d'édition vidéo" url = "http://www.wevideo.com/" auteur = "Jostein Svendsen, John Hallman, John Canning, Bjorn Rustberggard" version = "2011" repertoire = "Non" ressource_fonctionnement = "Vidéo de présentation http://www.youtube.com/watch?v=SVD9h0jDps0" ressource_analogue = "Pixorial http://www.pixorial.com/">
+		<type nom = "De traitement vidéo/Création et édition de films" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<!--Manque Pixorial-->
+	<!--Changer ressources analogues : WeVideo(Pixorial)-->
+	<ressource nom = "Animoto" description = "Animoto est une application web qui produit des vidéos (sortes de bande-annonces) à partir de photos, clips et musiques. Il est ensuite possible de les partager." url = "http://animoto.com/" auteur = "Animoto Inc." version = "2013" repertoire = "Non" ressource_fonctionnement = "Présentation http://laurenecastor.com/animoto-creez-des-videos-en-quelques-minutes/" ressource_analogue = "">
+		<type nom = "De traitement vidéo/Création et édition de films" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "GoAnimate" description = "Plateforme de création de films d'animation" url = "http://goanimate.com/" auteur = "Alvin Hung, Gary Lipkowitz" version = "2008" repertoire = "Non" ressource_fonctionnement = "Chaine Youtube : http://www.youtube.com/user/GoAnimate" ressource_analogue = "Wideo http://wideo.co/">
+		<type nom = "De traitement vidéo/Création et édition de films d'animation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, japonais, espagnol" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Dvolver" description = "Dvolver permet de créer très facilement des films d'animations. Tout est préenregistré, il suffit de choisir la situation, le fond, le ciel, les personnages, ce qu'ils se disent et voilà." url = "http://www.dvolver.com/moviemaker/make.html" auteur = "Sam Adams Beer, Hyundai, Old Navy, IBM, The Sierra Club, Scion" version = "" repertoire = "Non" ressource_fonctionnement = "Présentation et idées pour la classe http://fr.slideshare.net/9374092/dvolver-final-version ; Vidéo tutoriel (8') : http://www.teachertrainingvideos.com/volver/" ressource_analogue = "">
+		<type nom = "De traitement vidéo/Création et édition de films d'animation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Kerproof" description = "Kerproof est un logiciel intéractif qui permet de créer des images, mais aussi des films animés et des livres. Le graphisme est enfantin mais de nombreuses activités peuvent être faites par des apprenants de langues. A explorer !" url = "http://www.kerpoof.com/" auteur = "Disney" version = "2008-2013" repertoire = "Non" ressource_fonctionnement = "Présentation, tutoriels et idées d'utilisation en classe (en anglais) : http://techtutorials.edublogs.org/2011/10/04/kerpoof/" ressource_analogue = "">
+		<type nom = "De traitement vidéo/Création et édition de films d'animation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "Blabberize" description = "Ce site permet de 'faire parler' des images et photos. Il suffit de selectionner la bouche pour donner l'illusion de donner la paroles à l'image." url = "http://blabberize.com/" auteur = "Mobouy inc." version = "2010" repertoire = "Non" ressource_fonctionnement = "Présentation (en anglais) : http://fr.slideshare.net/breinerb/blabberize-9458424 ; Article (en anglais) : http://edjudo.com/blabberize-make-images-speak.html ; Des exemples ici : http://web20.wicomico.wikispaces.net/Blabberize" ressource_analogue = "">
+		<type nom = "De traitement vidéo/Création et édition de films d'animation" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Production orale"/>  
+	</ressource>
+	<ressource nom = "Quizlet" description = "Outil d'apprentissage en ligne qui permet d'effectuer mais aussi de créer des quizz sur 6 différents modes: Flashcards, Speller, Learn, Test, Scatter, Space Race." url = "http://quizlet.com/" auteur = "Andrew Sutherland" version = "2007" repertoire = "Non" ressource_fonctionnement = "http://en.wikipedia.org/wiki/Quizlet" ressource_analogue = "Educaplay http://fr.educaplay.com/">
+		<type nom = "Outils logiciels facilitant la conception/Générateurs d'exercices" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, français, espagnol, allemand, chinois" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "Zondle" description = "Zondle est un site permettant de créer (et de jouer) des quizz ludiques sur mesure, sous la forme de petits jeux interactifs scénarisés et animés en Flash." url = "http://www.zondle.com/publicPages/welcome.aspx " auteur = "Zondle ltd" version = "2011" repertoire = "Non" ressource_fonctionnement = "Présentation : http://www.otablo.com/blog/2011/06/zondle-jeux-serieux-a-la-carte/" ressource_analogue = "">
+		<type nom = "Outils logiciels facilitant la conception/Générateurs d'exercices" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "arabe, basque, croate, anglais, français, allemand, grec, hébreux, italien, coréen, malais, portugais, espagnol, turc" />
+	</ressource>
+	<ressource nom = "Blubbr" description = "Blubbr est un site web permettant de créer facilement des quizz vidéos et de jouer." url = "https://www.blubbr.tv/" auteur = "blubbr" version = "2012" repertoire = "Non" ressource_fonctionnement = "Présentation et idées d'usages : http://outilstice.com/2013/02/blubbr-proposer-des-quizz-video-a-vos-eleves/" ressource_analogue = "">
+		<type nom = "Outils logiciels facilitant la conception/Générateurs d'exercices" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<!--Manque Educaplay-->
+	<!--Changer ressources analogues : Quizlet(Educaplay)-->
+	<ressource nom = "HotPotatoes" description = "Hot Potatoes est un outil permettant de créer différentes catégories d'exercices interactifs en ligne. Hot Potatoes est articulé autour d'une suite de six logiciels permettant de créer les exercices et de les rendre publiables en code html sur un serveur Web. Il permet de construire des exercices sous la forme de QCM et réponses courtes (JQuiz), des exercices à trous (JCloze) et d'appariement (JMatch), des mots croisés (JCross) ainsi que des phrases ou mots à réorganiser (JMix ). Ces différents types d'exercices peuvent être combinés en unités à l'aide d'un sixième module appelé « The Masher ». Il est possible d'insérer des images, des sons ainsi que des animations, des vidéos, des tableaux et de donner un 'feedback' à l'utilisateur lui permettant de s'auto-évaluer et de prendre ainsi en main son propre processus d'apprentissage. La présentation des exercices (thème graphique, les consignes, les commentaires...) est facilement modifiable par un enseignant utilisateur débutant." url = "Téléchargement gratuit à http://www.01net.com/telecharger/windows/Loisirs/education_et_scolarite/fiches/20956.html" auteur = "Stewart Arneil et Martin Holmes" version = "6.3" repertoire = "Non" ressource_fonctionnement = "Site officiel : http://hotpot.uvic.ca/ ; Tutoriel : http://www.framasoft.net/article1590.html ; Fiche descriptives https://www.projet-plume.org/fiche/hot-potatoes , http://www.lettres.ac-aix-marseille.fr/college/lectecr/hotfrancais.htm " ressource_analogue = "">
+		<type nom = "Outils logiciels facilitant la conception/Générateurs d'exercices" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "Didapage" description = "Didapages est un logiciel qui permet de créer des livres virtuels, véritables cours interactifs contenant du texte, des images, des sons, des vidéos ou des exercices interactifs (QCM, dessin, déplacement de formes ...), avec en prime la possibilité d'effectuer un suivi des résultats des élèves." url = "http://www.commentcamarche.net/download/telecharger-34056118-didapages" auteur = "Carlos Guedes" version = "1.2" repertoire = "Non" ressource_fonctionnement = "Fiche descriptive : http://monpsd.free.fr/livre/didapages.html ; Tutoriel : http://monpsd.free.fr/livre-didapage/initiation/Initiation/ ; Des exemples ici : http://www.ac-grenoble.fr/tice74/spip.php?article589" ressource_analogue = "">
+		<type nom = "Outils logiciels facilitant la conception/Générateurs d'exercices" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite"/> 
+	</ressource>
+	<ressource nom = "Prezi" description = "Prezi est un logiciel de présentation qui n'adopte pas la mentalité de 'diapositives sur l'ordinateur'. Au lieu de couper les visuels en petits morceaux limités par la taille d'une diapositive, le présentateur peut s'exprimer en utilisant une surface 'infinie' sur laquelle il passe d'une partie à une autre avec un mécanisme de translation, de rotation et de zoom. On peut facilement insérer des images, vidéos et toutes sortes d'informations n'importe où sur la surface de présentation" url = "http://prezi.com" auteur = "Prezi Inc." version = "2013" repertoire = "Non" ressource_fonctionnement = "Vidéo tutoriel (27') : http://www.youtube.com/watch?v=gODSDslUfvk ; Articles sur Prezi : http://annuaire-prezi.blogspot.fr/ ; Enseigner avec Prezi pour dynamiser ses cours http://www.vousnousils.fr/2012/05/15/enseigner-avec-prezi-pour-dynamiser-ses-cours-2-526381" ressource_analogue = "">
+		<type nom = "Création d'autres supports pédagogiques/Présentations" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Slideshare" description = "Slideshare est un hébergeur de présentations. Les utilisateurs peuvent charger des fichiers de manière privée ou publique aux formats suivants : PowerPoint, PDF, Keynot ou présentations OpenOffice." url = "http://fr.slideshare.net/" auteur = "SlideShare Inc." version = "2013" repertoire = "Oui" ressource_fonctionnement = "Article sur Slideshare : http://www.les-filles-du-marketing.com/2012/07/slideshare-un-outil-de-contenu.html ; Présentation (en anglais) : http://fr.slideshare.net/AmitRanjan/quick-tour?from_search=1" ressource_analogue = "">
+		<type nom = "Création d'autres supports pédagogiques/Présentations" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Jing" description = "Jing est un logiciel qui permet d'enregistrer rapidement des captures d'écran sous forme d'images ou de vidéos pour pouvoir ensuite la partager. La version gratuite de Jing permet d'enregistrer uniquement les vidéos au format  flash (swf) sur une durée de 5 mn maxi. Vous pouvez paramétrer la taille de la zone à capturer, ainsi que la source audio (micro)." url = "Téléchargement gratuit à www.01net.com/telecharger/windows/Multimedia/capture_ecran/fiches/43514.html" auteur = "TechSmith Corporation" version = "1995-2013" repertoire = "Non" ressource_fonctionnement = "Vidéo tutoriel (6') http://www.youtube.com/watch?v=FUTf-JjJHv0 ; Article sur les logiciels de capture d'écran http://www.iconique.net/capture-decran-gratuite-fixe-ou-video-fireshot-jing/" ressource_analogue = "Camstudio http://camstudio.org/ ; Webinaria http://www.webinaria.com/ ; Wink http://www.debugmode.com/wink/ ;">
+		<type nom = "Création d'autres supports pédagogiques/Tutoriels" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "Wordle" description = "Avec wordle, bénéficiez d'un outil gratuit pour générer des nuages de mots, idéal pour illustrer vos blogs et mettre en avant les éléments clés d'un texte. Dans un premier temps, cliquez sur « create » afin d'accéder au service et rédiger votre texte. Vous pouvez également insérer un texte ou une URL par un simple copier/coller. Une fois votre saisie effectuée, cliquez sur le bouton « Go » pour faire apparaître votre nuage. Libre à vous de le personnaliser en sélectionnant une police, un style, une mise en page ou encore une couleur. Notez que les images créées avec wordle vous appartiennent, avec la possibilité de les imprimer et les enregistrer dans la galerie." url = "http://www.wordle.net/" auteur = "Jonathan Feinberg" version = "2013" repertoire = "Non" ressource_fonctionnement = "Vidéo tutoriel (3') http://www.youtube.com/watch?v=nwW-tWol7co ; Article tutoriel http://lewebpedagogique.com/latelierdelastrolabe/les-tutoriels/utiliser-wordle-logiciel-en-ligne/ ; Idées pour la classe http://outilstice.com/2013/02/4-outils-pour-creer-des-nuages-de-mots-pour-la-classe/" ressource_analogue = "WordSift http://www.wordsift.com/ ; Word It Out http://worditout.com/">
+		<type nom = "Création d'autres supports pédagogiques/Nuages de mots" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "FlipSnack" description = "FlipSnack permet de créer un catalogue intéractif en ligne." url = "http://www.flipsnack.com/fr/" auteur = "SnackTools.com" version = "2009-2013" repertoire = "Non" ressource_fonctionnement = "FlipSnack. Creer un flipbook en ligne http://outilstice.com/2013/04/flipsnack-creer-un-flipbook-en-ligne/ ; FlipSnack.com naviguez dans vos ebooks comme dans un vrai livre http://roget.biz/flipsnack-com-naviguez-dans-vos-ebook-comme-dans-un-vrai-livre" ressource_analogue = "">
+		<type nom = "Création d'autres supports pédagogiques/Manuels (à partir de pdf, jpeg)" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	<ressource nom = "NooJ" description = "Environnement de développement linguistique NooJ utilisé dans des applications variées du Traitement Automatique des Langues (TAL) mais ses applications peuvent être détournés et manipulés pour proposer une approche réflexive dans l'apprentissage des langues et de la linguistique. Par exemple, pour l'étude des mécanismes de morphologie lexicale, un repérage des mots construits dérivés de verbe sera proposé, ainsi qu'un classement des modes de construction." url = "http://www.nooj4nlp.net/pages/nooj.html" auteur = "Max Silberztein" version = "2002" repertoire = "Non" ressource_fonctionnement = "Max Silberztein et Agnès Tutin (2005) NooJ, un outil TAL pour l'enseignement des langues. Application pour l'étude de la morphologie lexicale en FLE : http://alsic.revues.org/336 ; http://en.wikipedia.org/wiki/NooJ ; http://www.miracl.rnu.tn/" ressource_analogue = "">
+		<type nom = "Création d'autres supports pédagogiques/Activités sur la morphologie" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "arabe, arménien, bulgare, catalan, chinois, croate, anglais, français, hébreu, hongrois, italien, polonais, portugais, espagnol" />
+	</ressource>
+
+<!--Outils matériels-->
+	<ressource nom = "Tablette numérique" description = "Une tablette tactile, tablette électronique, ardoise électronique ou bien encore tablette numérique est un ordinateur mobile en forme de tablette ayant pour principale interface un écran tactile et qui intègre plusieurs applications permettant, entre autres, d'accéder à des contenus multimédias" auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "Tablettes tactiles et enseignement : http://www.ac-limoges.fr/langues_vivantes/spip.php?rubrique9 ; https://eduscol.education.fr/numerique/dossier/apprendre/tablette-tactile ; http://www.cndp.fr/agence-usages-tice/que-dit-la-recherche/les-tablettes-tactiles-dans-l-enseignement-premieres-etudes-49.htm ; bilan de l'expériementation dans l'academie de Grenoble http://www.cndp.fr/agence-usages-tice/temoignages/tablettes-tactiles-premier-bilan-de-l-experimentation-dans-l-academie-de-grenoble-1213.htm ; Kim, H-K. (2012). Etat de l'art de l'utilisation de la tablette dans l'enseignement des langues. Université Stendhal-Grenoble 3. ; Application  Kun Cha Globe Trotter (apprentissage du vocabulaire en 4 langues - français, anglais, allemand, chinois, espagnol par mémorisation) http://apps.happyneuron.com/?kuncha" ressource_analogue = "">
+		<type nom = "Outils matériels" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Smartphone" description = "Un smartphone, ordiphone ou téléphone intelligent, est un téléphone mobile évolué disposant des fonctions d'un assistant numérique personnel, d'un appareil photo numérique et d'un ordinateur portable. Selon le principe d'un ordinateur, il peut exécuter divers logiciels/applications grâce à un système d'exploitation spécialement conçu pour mobiles, et donc en particulier fournir des fonctionnalités en plus de celles des téléphones mobiles classiques comme : l'agenda, la télévision, le calendrier, la navigation sur le Web, la consultation et l'envoi de courrier électronique, la géolocalisation, le dictaphone/magnétophone, la calculatrice, la boussole, l'accéléromètre, le gyroscope, la messagerie vocale visuelle, la cartographie numérique etc. Les smartphones les plus sophistiqués bénéficièrent rapidement de la reconnaissance vocale et de la synthèse vocale." url = "" auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "'Utiliser le smartphone en classe' : http://www.educavox.fr/mot/utiliser-le-smartphone-en-classe ; 'Smatphone à l'école, mieux que les tablettes ?' http://www.remithibert.net/2012/06/19/smartphones-a-lecole-mieux-que-les-tablettes/ ; 'Du bon usage des smartphones à l'école' http://www.rslnmag.fr/post/2013/04/02/Du-bon-usage-des-smartphones-a-lecole-.aspx" ressource_analogue = "">
+		<type nom = "Outils matériels" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+	<ressource nom = "Tableau Blanc Intéractif (TBI)" description = "Le tableau blanc interactif (TBI), ou tableau numérique interactif (TNI), nommé aussi parfois tableau pédagogique interactif (TPI), est un système de vidéoprojection numérique qui vise à remplacer le tableau avec craie ou crayon effaçable en lui ajoutant parfois des haut-parleurs. Il existe aussi un mobile interactif (DMI), facilement transportable. Il permet à un conféncier de présenter des données ç un large public et d'interagir sur la présentation en restant debout à côté du tableau. Les logiciels fournis permettent également d'écrire ou de dessiner directement sur l'écran, à l'aide d'un feutre virtuel, du doigt ou d'un stylet." auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "- http://fr.wikipedia.org/wiki/Tableau_blanc_interactif ; Projet Européen sur l'utilisation du TBI http://www.itilt.eu/fr ; TBI et Langues vivantes - animations Flash http://www.buech.ien.05.ac-aix-marseille.fr/spip/spip.php?article203 ; L'utilisation du TBI en langues vivantes http://espaceeducatif.ac-rennes.fr/jahia/webdav/site/espaceeducatif3/groups/pole-langues-vivantes_Webmestres/public/documents/TICE/cr_tbi ; http://pedagogie.ac-toulouse.fr/langues-vivantes/spip.php?article312 ; http://www.scoop.it/t/tbi-et-langues-vivantes" ressource_analogue = "">
+		<type nom = "Outils matériels" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+	</ressource>
+		<ressource nom = "Manuel numérique" description = "Un manuel numérique est un manuel scolaire dématérialisé. La définition retenue par la SDTICE (Sous-Direction des Technologies de l'Information et Communication pour l'Enseignement) est la suivante 'C’est un manuel dématérialisé que l’on utilise avec un ordinateur. Il est vu sur l’écran ou projeté en classe avec un vidéoprojecteur. En plus des textes et images que l’on trouve dans le manuel papier, le manuel numérique peut proposer des documents sonores, des animations ou des vidéos.'" url = "" auteur = "" version = "" repertoire = "Non" ressource_fonctionnement = "http://fr.wikipedia.org/wiki/Manuel_num%C3%A9rique ; Dossier du Ministère de l'Education Nationale : http://eduscol.education.fr/numerique/dossier/lectures/manuel ;  Site d'information sur les manuels scolaires numeriques notamment, mais aussi sur les TICE et leur utilisation au sens plus large : http://lemanuelnumerique.fr/" ressource_analogue = "">
+		<type nom = "Outils matériels" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+	</ressource>
+	
+<!--Solutions intégrées pour l'apprentissage des langues-->
+	<ressource nom = "Babbel" description = "Site de formation en langue basé sur les exerciseurs (exercices avec correction automatique : qcm, association, traduction...). Version d'essai libre mais nécessité de s'enregistrer pour continuer la formation" url = "http://fr.babbel.com/" auteur = "Lesson Nine GmbH" version = "2007" repertoire = "Non" ressource_fonctionnement = "Cisel, Mathieu (Thèse en cours) 'MOOC - Apprendre une langue en ligne' - cf. partie VII : https://docs.google.com/document/d/10j3EqvUdc4uuWPJ5R6w2f4jgYwGwGaCYoZnjSVmZACs/edit?pli=1" ressource_analogue = "">
+		<type nom = "S'appuyant sur les exerciseurs/Mémoire, automatismes" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, allemand, espagnol, italien, portugais, suédois, turc, néerlandais, polonais, indonésien" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "Memrise" description = "Site de formation en langues qui utilise des flashcards" url = "http://www.memrise.com/" auteur = "Ed Cooke" version = "2010" repertoire = "Non" ressource_fonctionnement = "Présentation rapide : http://www.commentcamarche.net/news/5862414-apprendre-tous-les-jours-avec-memrise ; Démo : https://www.youtube.com/watch?v=0jgdjwse-hQ" ressource_analogue = "Duolingo http://duolingo.com/">
+		<type nom = "S'appuyant sur les exerciseurs/Mémoire, automatismes" />
+		<profil nom = "Apprenant" />
+		<langue nom = "arabe, bengali, bulgare, catalan, chinois, croate, tchèque, danois, néerlandais, anglais, philippin, finnois, français, allemand, grec, goujarati, hébreu, hindi, hongrois, indonésien, italien, japonais, kannada, coréen, letton, lituanien, malais, malayalam, marathi, norvégien, oriya, persan, polonais, portugais, roumain, russe, serbe, slovaque, slovène, espagnol, suédois, tamoul, télougou, thaï, turc, ukrainien, vietnamien" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/>
+	</ressource>	
+	<ressource nom = "MYLO" description = "C'est un site d'apprentissage qui met l'accent sur les aspects 'motivation' et 'intérêt'. Une fois la langue d'apprentissage sélectionnée, Mylo vous propose deux entrées : -apprendre les bases de la langues ou 'challenges'. Les challenges à relever sont des activités stimulantes faisant appel à la créativité et aux compétences productives de l'apprenant : écrire un synopsis et réaliser une affiche de film pour un producteur, trouver des nouvelles tendances pour la fashion Week, proposer un visite de Paris hors des sentiers battus et écrire les commentaires du guide. Le site est destiné aux apprenants en autonomie, aux enseignants souhaitant encadrer des activités ainsi qu'à des classes entières car il permet de participer à des concours avec d'autres classes. La réalisation des activités est en effet rémunérée en points.A noter la présence d'un réseau social permettant de créer des communautés, de compléter son profil et de commenter le travail de ses camarades." url = "http://www.hellomylo.com/" auteur = "RM Education" version = "" repertoire = "Non" ressource_fonctionnement = "http://www.real-association.eu/fr/news/mylo-est-en-ligne-une-nouvelle-ressource-gratuite-pour-apprendre-les-langues-en-ligne ; http://tice.utt.fr/?p=540" ressource_analogue = "">
+		<type nom = "S'appuyant sur les exerciseurs/Avec activités créatives" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "français, allemand, espagnol, chinois" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "Busuu" description = "Site de formation en langue basé sur les exerciseurs (exercices avec correction automatique : qcm, association, traduction...) mais l'accent est mis sur l'apprentissage entre pairs grâce au réseautage social organisé." url = "http://www.busuu.com/fr" auteur = "Bernhard Niesner et Adrian Hilti" version = "2008" repertoire = "Non" ressource_fonctionnement = "Cisel, Mathieu (Thèse en cours) 'MOOC - Apprendre une langue en ligne' - cf. partie VII : https://docs.google.com/document/d/10j3EqvUdc4uuWPJ5R6w2f4jgYwGwGaCYoZnjSVmZACs/edit?pli=1" ressource_analogue = "LiveMocha http://livemocha.com/pages/learn-languages/">
+		<type nom = "Intégrant la dimension sociale/Avec exerciseurs" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, espagnol, français, allemand, italien, portugais, russe, polonais, turc, chinois, japonais" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en interaction"/> 
+	</ressource>
+	<ressource nom = "LingQ" description = "Site pour apprendre les langues en autonomie. Le principe de départ pour développer son vocabulaire est de sélectionner les expressions non connues et de découvrir ce qu'elles veulent dire à l'aide des dictionnaires intégrés. Cela crée automatiquement un glossaire personnalisé où l'on peut revenir pour approfondir le vocabulaire. Le site contient de nombreuses ressources gratuites à écouter, lire et télécharger ainsi qu'une communauté des apprenants et locuteurs natifs qui s'entraident. D'autre part, le profil et les statistiques personnelles sont présentes pour le suivi et à peu de frais des tuteurs sont disponibles pour parler et corriger nos écrits." url = "http://www.lingq.com/fr/" auteur = "Steve Kaufmann" version = "2002-2012" repertoire = "Non" ressource_fonctionnement = "Vidéo de présentation en Français : http://www.youtube.com/watch?v=XUxhIMYJ6Is ; Critique libre sur http://www.thelinguist.com/en/fr/library/item/64759/" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Avec traduction des expressions non connues" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, français, espagnol, japonais, italien, allemand, russe, chinois, portugais, suédois, coréen, arabe, tchèque, polonais, néerlandais, norvégien, finnois, turc, hébreu, espéranto, latin" />
+		<activite_langagiere nom = "Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "eTandem" description = "Plateforme de mise en relation entre apprenants et locuteur natifs de la langue à apprendre. Vise à une communication directe par téléphone, mail, skype ou tout autre média selon le principe de réciprocité : chacun apprend la langue que l'autre parle en communiquant avec lui dans sa langue." url = "http://sfedu.ru/tandem/etandem/etindex-fr.html" auteur = "Projet eTandem Europa, Commission Européenne - Université de Bochum en Allemagne (Coordinateur du projet)" version = "2001" repertoire = "Non" ressource_fonctionnement = "Cisel, Mathieu (Thèse en cours) 'MOOC - Apprendre une langue en ligne' - cf. partie VI : https://docs.google.com/document/d/10j3EqvUdc4uuWPJ5R6w2f4jgYwGwGaCYoZnjSVmZACs/edit?pli=1" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<langue nom = "arabe, autrichien, bulgare, catalan, chinois, danois, allemand, anglais, finnois, français, gaelique, hébreux, hindi, hongrois, islandais, indonésien, irlandais, italien, japonais, coréen, latin, lituanien, luxembourgeois, maori, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, tagalog, taïlandais, turc, ukrainien, urdu, vietnamien, gallois, yiddish" />
+		<activite_langagiere nom = "Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Penpals" description = "Plateforme de mise en relation de personnes à travers le monde." url = "http://www.penpals.us/home.html" auteur = "Christoph Ziegenberg" version = "2000-2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "Mailfriends http://www.mailfriends.us/home.html">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<langue nom = "arabe, autrichien, bulgare, catalan, chinois, danois, allemand, anglais, finnois, français, gaelique, hébreux, hindi, hongrois, islandais, indonésien, irlandais, italien, japonais, coréen, latin, lituanien, luxembourgeois, maori, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, tagalog, taïlandais, turc, ukrainien, urdu, vietnamien, gallois, yiddish" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Polyglot Club" description = "Plateforme de mise en relation de personnes intéressées par l'apprentissage des langues grâce à une communauté d'apprenants. Il est possible d'avoir des corrections sur des travaux personnels par des natifs, et d'assister à des événements à travers le monde." url = "http://polyglotclub.com/" auteur = "Polyglot" version = "2013" repertoire = "Non" ressource_fonctionnement = "Articles à propos de Polyglot : http://polyglotclub.com/about_us" ressource_analogue = "http://www.mylanguageexchange.com/">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<langue nom = "arabe, autrichien, bulgare, catalan, chinois, danois, allemand, anglais, finnois, français, gaelique, hébreux, hindi, hongrois, islandais, indonésien, irlandais, italien, japonais, coréen, latin, lituanien, luxembourgeois, maori, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, tagalog, taïlandais, turc, ukrainien, urdu, vietnamien, gallois, yiddish" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "The Mixxer" description = "Plateforme de mise en relation entre apprenants et locuteur natifs de la langue à apprendre. Création d'une communauté d'apprenant via Skype et blogs." url = "http://www.language-exchanges.org/" auteur = "Dickinson College" version = "2013" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<langue nom = "arabe, autrichien, bulgare, catalan, chinois, danois, allemand, anglais, finnois, français, gaelique, hébreux, hindi, hongrois, islandais, indonésien, irlandais, italien, japonais, coréen, latin, lituanien, luxembourgeois, maori, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, tagalog, taïlandais, turc, ukrainien, urdu, vietnamien, gallois, yiddish" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Tele-Tandem" description = "Tele-Tandem s'adresse aux établissements français souhaitant créer un partenariat avec un établissement allenmand afin de créer un projet bilingue grâce à la télé-communication." url = "http://www.tele-tandem.net/fr/" auteur = "OFAJ Office franco-allemand pour la Jeunesse" version = "2013" repertoire = "Non" ressource_fonctionnement = "Présentation : http://www.ofaj.org/sites/default/files/OFAJ_tele-tandem_F_WEB_0.pdf" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "français, allemand" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "eTwinning" description = "eTwinning est une action européenne qui offre aux enseignants des 33 pays participant la possibilité d’entrer en contact afin de mener des projets d’échange à distance avec leurs élèves à l’aide des TICE. Plus de 190 000 enseignants sont inscrits dans la communauté eTwinning en ligne. eTwinning fait partie du programme européen, Comenius. En plus de ce réseau étendu d’enseignants, eTwinning met à disposition des outils de communication et d’échange pour les projets, tous gratuits et sécurisés. Chaque pays qui participe à cette action est doté d’un bureau d’assistance national qui fournit un soutien pédagogique et technique aux enseignants inscrits." url = "http://www.etwinning.fr/" auteur = "Scérén - Cndp" version = "2010" repertoire = "Non" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Sites de mise en relation tandem" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<profil nom = "Gestionnaire" />
+		<langue nom = "arabe, autrichien, bulgare, catalan, danois, allemand, anglais, finnois, français, gaelique, hébreux, hindi, hongrois, islandais, irlandais, italien, lituanien, luxembourgeois, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, turc, ukrainien, gallois" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Babelium" description = "Babelium est une plateforme d'apprentissage des langues étrangères en ligne et notamment pour les langues européennes. Créée par une équipe de recherche de l'université du Pays Basque en Espagne en 2011, cette plateforme vise à pratiquer et à s'entraîner à l'oral en langues étrangères. Elle s'inscrit dans l'open source et comprend des logiciels gratuits permettant d'enregistrer le son et l'image, de faire le doublage à une vidéo et de sous-titrer une vidéo via l'ordinateur de l'utilisateur. Babelium peut être intégré dans Moodle." url = "http://babeliumproject.com" auteur = "Babelium Project" version = "2011" repertoire = "Non" ressource_fonctionnement = "Pereira, J.A. et al. (nd). Extending Babelium Project with a revolutionary method for preparing Second Language Speaking exam using Web 2.0 tools in a collaborative way. http://blog.babeliumproject.com/wp-content/uploads/2011/07/proceeding_38142.pdf ; Kim, H-K (2013). Rapport sur Babelium. Lansad, Université Stendhal-Grenoble 3" ressource_analogue = "">
+		<type nom = "Intégrant la dimension sociale/Plateforme visant la pratique orale" />
+		<profil nom = "Apprenant" />
+		<langue nom = "albanais, allemand, anglais, arabe, basque, bielorusse, bulgare, catalan, croate, danois, espagnol, estonien, finnois, français, galicien, georgien, grec, hongrois, islandais, italien, letton, lituanien, néerlandais, norvégien, polonais, portugais, roumain, russe, serbe, slovaque, slovène, suédois, tchèque, turc, ukrainien" />
+		<activite_langagiere nom = "Production orale en continu, Production orale en intéraction"/> 
+	</ressource>	
+	<ressource nom = "Cooplang" description = "COOPLANG (Coopérative des Langues) est un projet d'enseignement/ apprentissage numérique des langues étrangères destiné à développer les compétences de compréhension orale et de production écrite dans la perspective de la certification CLES(Certificat de Compétences en Langues de l'Enseignement Supérieur). COOPLANG s'appuie sur un consortium de partenaires (Lyon 2, Lille 3 et Grenoble 3) qui contribuent à nourrir une offre de formation plurinlingue en ligne. Des versions différentes existent selon la langue : chacune propose un scénario d'apprentissage mettant les utilisateurs en situation de traiter l'information orale et de produire une note de synthèse en langue étrangère." url = "http://domus.grenet.fr/cooplang/" auteur = "Partenaires du projet = Lyon 2, Lille 3 et Grenoble 3" version = "2007" repertoire = "Non" ressource_fonctionnement = "Plusieurs articles ici : http://sites.univ-lyon2.fr/cooplang/projet/spip.php?rubrique3" ressource_analogue = "">
+		<type nom = "Dispositifs d'apprentissage des langues/Dépendant d'un organisme de formation (Grenoble)" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, allemand, espagnol, italien, français" />
+		<activite_langagiere nom = "Compréhension orale, Production écrite"/> 
+	</ressource>
+	<ressource nom = "FILIPE" description = "Le programme e-learning FELIPE (FIlière LInguistique Préparatoire aux Études en France) propose - à l'aide de modules spécialement crées - aux étudiants internationaux non francophones souhaitant poursuivre des études d'ingénieur en France : d'améliorer leur compréhension orale du français scientifique, de découvrir des particularités de l'enseignement 'à la française' et de se sensibiliser à la dimension interculturelle." url = "http://www.e-filipe.org/" auteur = "Projet soutenu par le Ministère de l'éducation Nationale - membres du projet : consortium d’écoles d’ingénieur françaises prestigieuses" version = "2005" repertoire = "Non" ressource_fonctionnement = "Plaquette d'information : http://www.e-filipe.org/doc/PLAQUETTE-FILIPE_08.pdf ; http://www.e-filipe.org/doc/article_Francais_a_l-universite_oct2010.pdf ; http://www.e-filipe.org/doc/Lettre_unit_20.pdf" ressource_analogue = "">
+		<type nom = "Dispositifs d'apprentissage des langues/Dépendant d'un organisme de formation (Grenoble)" />
+		<profil nom = "Apprenant" />
+		<langue nom = "français" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "Learning Chocolate" description = "Plateforme d'apprentissage de vocabulaire avec une douzaine de catégories de mots et six activités d'apprentissage différentes. D'abord, après avoir choisi une catégorie, il est possible de lire et écouter les mots. Ensuite, diverses activités d'assemblage, de remplissage et de dictée sont disponibles" url = "http://www.learningchocolate.com/" auteur = "Learning Chocolate" version = "2009-2013" repertoire = "Oui" ressource_fonctionnement = "Chaine Youtube : http://www.youtube.com/user/LearningChocolate ; http://teachingall.blogspot.fr/2012/03/learning-chocolate.html" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Plateformes d'apprentissage de vocabulaire" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, chinois, japonais, allemand, espagnol" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "LanguageGuide.org" description = "C'est une plateforme permettant d'améliorer la compréhension orale dans différentes langues. Après avoir choisi une catégorie dans la liste (l'alphabet, les nombres, le corps, les animaux, etc.), l'utilisateur peut écouter la prononciation en cliquant sur l'image. Il est aussi possible d'effectuer un quizz en cliquant sur l'image correspondant au mot entendu." url = "http://www.languageguide.org" auteur = "Language Guide" version = "" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Plateformes d'apprentissage de vocabulaire" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, hollandais, français, espagnol, allemand, italien, turc, russe, arabe, chinois, coréen, japonais" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "Quizlet" description = "Outil d'apprentissage en ligne qui permet d'effectuer mais aussi de créer des quizz sur 6 différents modes: Flashcards, Speller, Learn, Test, Scatter, Space Race." url = "http://quizlet.com/" auteur = "Andrew Sutherland" version = "2007" repertoire = "Non" ressource_fonctionnement = "http://en.wikipedia.org/wiki/Quizlet" ressource_analogue = "Zondle http://www.zondle.com/publicPages/welcome.aspx ; Blubbr http://www.blubbr.tv/ ; Educaplay http://fr.educaplay.com/">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Répertoires d'activités" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, français, espagnol, allemand, chinois" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>
+	<ressource nom = "Orthochansons" description = "C'est un logiciel à télécharger sur ordinateur qui s'appuye sur une approche pédagogique et ludique. Il s'agit de balayer les fautes d'orthographe en français à partir de 25 chansons soutenues par des animations pédagogiques disposant du système Karaoké (paroles à apparaître et musique). Méthode appliquée en 4 étapes : Découvrir : mise en scène d'une ou plusieurs règles en une chanson soutenue par une animation pédagogique, Mémoriser : écouter, lire le contenu déjà découvert par le système karaoké, Approfondir : détailler des règles concernées, Appliquer : exercices interactifs (ex. copier un texte proposé, répondre à des questions, remplir des trous, etc.)" url = "http://www.orthochansons.fr" auteur = "Jean-Vicent VOYER" version = "2012" repertoire = "Non" ressource_fonctionnement = "Brochure détaillée sur http://www.orthochansons.fr/plaquette/orthochansons.pdf" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Répertoires d'activités" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "français" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+	<ressource nom = "LyricsTraining" description = "LyricsTraining est une méthode facile et amusante pour apprendre une langue, grâce à un grand catalogue de clips vidéos avec les paroles." url = "http://www.lyricstraining.com/" auteur = "LyricsTraining.com" version = "2010-2012" repertoire = "Oui" ressource_fonctionnement = "Tutoriel permettant d'ajouter sois-même des clips vidéos au site http://www.youtube.com/watch?v=bPIXUZY5mPQ" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Répertoires d'activités" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "français, anglais, espagnol, portugais, italien, allemand, néerlandais" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "Serious Games (Jeux Sérieux)" description = "Le jeu sérieux est un logiciel qui combine une intention sérieuse, de type pédagogique, informative, communicationnelle, marketing, idéologique ou d’entraînement avec des ressorts ludiques. La vocation d’un jeu sérieux est donc de rendre attrayante la dimension sérieuse par une forme, une interaction, des règles et éventuellement des objectifs ludiques." url = "http://cursus.edu/institutions-formations-ressources/formation/17843/jeux-serieux-gratuits-2/" auteur = "Thot Cursus inc." version = "" repertoire = "Oui" ressource_fonctionnement = "Présentation : http://fr.wikipedia.org/wiki/Jeu_s%C3%A9rieux ;- Jeux sérieux en classe : http://eduscol.education.fr/numerique/actualites/veille-education-numerique/novembre-2012/jeux-serieux-en-classe ; Utilisation pour la langue française : http://jeuxserieux.ac-creteil.fr/?p=1141 ; Jeux sérieux, quels apprentissages : http://www.cndp.fr/agence-usages-tice/que-dit-la-recherche/jeux-serieux-quels-apprentissages-48.htm" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Répertoires d'activités" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<activite_langagiere nom = "Compréhension écrite, Compréhension orale, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "English By Yourself" description = "C'est un site destiné à faciliter l'acquisition de connaissances en langue anglaise à partir d'un ensemble de ressources multimédias soigneusement sélectionnées mais également de propositions de parcours de formation personnalisés (gratuits et payants). Crée par le CNED, l'objectif est une immersion dans l'anglais parlé, pour une pratique quotidienne. Si les internautes veulent aller plus loin, ils peuvent alors s'inscrire et passer dans un espace plus classique de formations du Cned." url = "http://www.englishbyyourself.fr/" auteur = "CNED" version = "2012" repertoire = "Non" ressource_fonctionnement = "Dossier de presse http://pedagogie2.ac-reunion.fr/anglaislp/documents/BO/rapport_halimi/dossier_presse_englishbyyourself.pdf ; Présentation sur le CNED http://www.cned.fr/journalistes/communiques-presse/2012/lancement-english-by-yourself.aspx" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Ensemble de ressources dans une langue étrangère en particulier" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite"/> 
+	</ressource>	
+	<ressource nom = "UsingEnglish.com" description = "Site regroupant un grand nombre d'outils et de ressources pour l'enseignement-apprentissage de l'anglais." url = "http://www.usingenglish.com/" auteur = "UsingEnglish.com" version = "2002-2013" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "50 liens pour enseigner l'anglais comme langue étrangère : http://www.teachthought.com/learning/50-incredibly-useful-links-for-ell-educators/">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Ensemble de ressources dans une langue étrangère en particulier" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Anglaisfacile.com" description = "Site avec des ressources statiques concernant l'anglais mais aussi d'autres langues. Il contient des cours et exercices (qcm, vrai/faux, association, etc.)." url = "http://www.anglaisfacile.com/tous.php" auteur = "Laurent Camus" version = "2007-2013" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Ensemble de ressources dans une langue étrangère en particulier" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, français, espagnol, allemand, italien, hollandais, japonais, provençal, latin" />
+	</ressource>
+	<ressource nom = "Tell Me More" description = "Logiciel d'apprentissage linguistique spécifique à une langue" url = "http://www.tellmemore.fr/" auteur = "Auralog SA" version = "2005-2013" repertoire = "Non" ressource_fonctionnement = "Avis et revue en détails : http://www.cours-anglais-en-ligne.com/tests/tell-me-more-anglais-cours-d-anglais-en-ligne-interactifs.html ; Apprendre l’anglais, l’allemand, l’espagnol... avec les logiciels Tell Me More : http://www.cours2physique.com/apprendre-anglais-allemand-espagnol/tell-me-more.html" ressource_analogue = "Rosetta Stone http://www.rosettastone.fr/ ; Talk Now ; Berlitz http://www.berlitz.fr/ ; SpanishMooc http://spanishmooc.com/">
+		<type nom = "Solutions intégrées pour l'apprentissage des langues/Logiciels traitant une langue en particulier" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, espagnol, italien, néerlandais, français, chinois, japonais, arabe" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu"/> 
+	</ressource>
+
+<!--Outils logiciels servant d'appui pour l'apprentissage en autonomie-->	
+	<ressource nom = "WordReference" description = "Dictionnaire en ligne avec présence d'un conjugueur, forum pour que les utilisateurs puisse s'entaider à traduire également.Présence d'expressions idiomatiques ainsi que la phonétique des mots (avec la possibilité de l'entendre parfois)" url = "http://www.wordreference.com/fr/" auteur = "Michael Kellogg" version = "1999" repertoire = "Non" ressource_fonctionnement = " http://outilstice.com/2013/01/wordreference-dictionnaires-de-langues-en-ligne/" ressource_analogue = "Lexilogos http://www.lexilogos.com/index.htm ; Reverso http://www.reverso.net/text_translation.aspx?lang=FR ; Itranslate4.eu (Projet traducteur en ligne pour toutes les langues européennes) ; Répertoire : Lexicool http://www.lexicool.com">
+		<type nom = "Outils logiciels servant d'appui pour l'apprentissage en autonomie/Dictionnaires et traducteurs" />
+		<profil nom = "Apprenant" />
+		<langue nom = "anglais, français, espagnol, italien, portugais, allemand, russe, polonais, roumain, tchèque, grec, turc, chinois, japonais, coréen, arabe" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en interaction"/> 
+	</ressource>
+	<ressource nom = "Lexipedia" description = "Dictionnaire visuel permettant d'enrichir son lexique Les dictionnaires sur le web ne se contentent plus de donner des définitions ou des traductions. Ils permettent maintenant d'enrichir son lexique en fournissant pour chaque mot recherché des mots au sens proche ou en relation. La présentation sous forme de carte mentale facilite la lecture et la navigation." url = "http://www.lexipedia.com" auteur = "Vantage Linguistics" version = "2012" repertoire = "Non" ressource_fonctionnement = "http://www.primlangues.education.fr/article/des-dictionnaires-visuels-ou-comment-enrichir-son-lexique" ressource_analogue = "Visuwords http://www.visuwords.com ; VisualThesaurus http://www.visualthesaurus.com">
+		<type nom = "Outils logiciels servant d'appui pour l'apprentissage en autonomie/Dictionnaires visuels sémantiques" />
+		<profil nom = "Apprenant" />
+		<langue nom = "allemand, espagnol, français, italien, néerlandais" />
+		<activite_langagiere nom = "Production écrite"/> 
+	</ressource>
+
+	
+<!--Répertoires d'objets d'apprentissage-->
+	<ressource nom = "Audio Lingua" description = "Ce site propose une base de données collaborative de fichiers audio authentiques, enregistrés par des locuteurs natifs, libres de droits pour une utilisation pédagogique ou personnelle. Les fichiers mp3 sont classés par niveau du CECRL et peuvent être écouté directement en ligne sur le site, téléchargés un par un ou alors par abonnement au podcast. Il est également posible d'ajouter des ressources." url = "http://www.audio-lingua.eu/" auteur = "C.R.D.P de l'académie de Versailles" version = "2007-2013" repertoire = "Oui" ressource_fonctionnement = "Enseigner avec la baladodiffusion http://www.langues92.ac-versailles.fr/wordpress/?page_id=1970 ; Roussel S., Rieussec A., Nespoulous J-L. et Tricot A. (2008) Des baladeurs MP3 en classe d'allemand - L'effet de l'autorégulation matérielle de l'écoute sur la compréhension auditive en langue seconde - http://alsic.revues.org/413 ; Exemple d'utilisation de baladodiffusion en espagnol : http://webtv.ac-versailles.fr/spip.php?article515 ; La baladodiffusion au service de l'enseignement des langues au collège http://www.cndp.fr/agence-usages-tice/temoignages/%20la-baladodiffusion-au-service-de-l%E2%80%99enseignement-des-langues-au-college-1181.htm" ressource_analogue = "">
+		<type nom = "Audio/Podcasts dans différentes langues" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, allemand, espagnol, italien, russe, portugais, chinois, français" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "Projet Shtooka" description = "Le Projet Shtooka est une banque multilingue d’enregistrements audio de mots et expressions. Les enregistrements sont libres ! Vous pouvez les écouter, les télécharger, les réutiliser !" url = "http://swac-collections.org/" auteur = "Vion Nicolas" version = "" repertoire = "Oui" ressource_fonctionnement = "Articles ici : http://swac-collections.org/documentation.php" ressource_analogue = "">
+		<type nom = "Audio/Podcasts dans différentes langues" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "arabe, biélorusse, tchèque, chinois, allemand, anglais, italien, français, hollandais, polonais, portugais, russe, espagnol, suédois, serbe, ukrainien, wolof, wuu" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en intéraction"/> 
+	</ressource>
+	<ressource nom = "Répertoire de podcasts gratuits dans différentes langues" description = "Voici un répertoire de sites qui proposent gratuitement des flux de fichiers audio et/ou vidéo, voire de simples enregistrements (sans option d'abonnement) pour l’apprentissage de l’anglais, du français, de l’espagnol et d'autres langues principalement européennes." url = " http://cursus.edu/institutions-formations-ressources/formation/12314/podcasts-gratuits-pour-apprendre-les-langues/" auteur = "Répertoire par Thot Cursus inc." version = "" repertoire = "" ressource_fonctionnement = "Enseigner avec la baladodiffusion http://www.langues92.ac-versailles.fr/wordpress/?page_id=1970 ; Roussel S., Rieussec A., Nespoulous J-L. et Tricot A. (2008) Des baladeurs MP3 en classe d'allemand - L'effet de l'autorégulation matérielle de l'écoute sur la compréhension auditive en langue seconde - http://alsic.revues.org/413 ; Exemple d'utilisation de baladodiffusion en espagnol : http://webtv.ac-versailles.fr/spip.php?article515 ; La baladodiffusion au service de l'enseignement des langues au collège http://www.cndp.fr/agence-usages-tice/temoignages/%20la-baladodiffusion-au-service-de-l%E2%80%99enseignement-des-langues-au-college-1181.htm" ressource_analogue = "">
+		<type nom = "Audio/Podcasts dans différentes langues" />
+		<profil nom = "Apprenant" />
+		<profil nom = "Enseignant" />
+		<profil nom = "Concepteur" />
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, allemand, espagnol, grec, italien, russe, portugais, français" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "CC Mixter" description = "Ce site propose une base de données collaborative de musiques libres, remix et chansons libres de droit." url = "http://ccmixter.org" auteur = "ArtisTech Media, LLC." version = "2004" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "http://www.freesound.org (banque de sons universelle) ; http://www.soundclick.com ; http://www.dogmazic.net ; http://www.jamendo.com ; Instreamia http://www.instreamia.com (clips style Karaoké) ; Fleex http://fleex.tv/ (clips style Karaoké)">
+		<type nom = "Audio/Musiques et chansons" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<ressource nom = "lesite.tv" description = "lesite.tv propose aux enseignants, enseignants-documentalistes et élèves d'accéder à la demande à plus de 2500 séquences vidéos à télécharger, indexées aux points-clés du programme scolaire couvrant 20 disciplines et réparties selon 3 niveaux de scolarité. Il y a aussi des suggestions pédagogiques utiles à l'exploitation des vidéos : des documents d'accompagnement pédagogique pdf associés à chaque vidéo, des modules interactifs d'éducation à l'image, des rubriques de mutualisation de fiches d'activités, des dossiers thématiques transdisciplinaires." url = "http://www.lesite.tv/" auteur = "Centre National de Documentation Pédagogique (CNDP)" version = "2003" repertoire = "Oui" ressource_fonctionnement = "Améliorer l'expression langagière à partir de documents audio-visuels = activité innovante http://www.unil.ch/riset/page68912.html#p_105 ; Présentation du service 'lesite.tv' http://www.cndp.fr/crdp-dijon/Presentation-du-service-Lesite-tv.html" ressource_analogue = "">
+		<type nom = "Objets multimédias/Vidéos" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "allemand, espagnol, italien, portugais, anglais, français" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<!--Manque Tatoeba-->
+	<ressource nom = "L@ngues_en_ligne" description = "Ce site contient dossiers pédagogiques pour l'enseignement des langues étrangères (libre de droit)" url = "http://www.cndp.fr/languesenligne/" auteur = "Centre National de Documentation Pédagogique (CNDP)" version = "2006" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Objets pédagogiques/Dossiers de séances de cours" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "anglais, allemand, arabe, chinois, japonais, espagnol, italien, portugais, russe, français" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en interaction"/> 
+	</ressource>
+	<ressource nom = "Open Culture" description = "Site répertoriant des leçons audio pour apprendre les langues gratuitement" url = "http://www.noexcuselist.com/li/?url=http://www.openculture.com/freelanguagelessons" auteur = "Open Culture, LLC" version = "2006-2013" repertoire = "Oui" ressource_fonctionnement = "" ressource_analogue = "">
+		<type nom = "Objets Pédagogiques/Cours audio" />
+		<profil nom = "Apprenant"/>
+		<profil nom = "Enseignant"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "arabe, bulgare, catalan, chinois, danois, allemand, anglais, finnois, français, gaelique, autrichien, hébreux, hindi, hongrois, islandais, indonésien, irlandais, italien, japonais, coréen, latin, lituanien, luxembourgeois, maori, norvegien, polonais, portugais, roumain, russe, espagnol, suédois, tagalog, taïlandais, turc, ukrainien, urdu, vietnamien, gallois, yiddish" />
+		<activite_langagiere nom = "Compréhension orale"/> 
+	</ressource>
+	<!--Manque Brainpop-->
+	<ressource nom = "Objets pour l'apprentissage" description = "Les objets d'apprentissage sont des 'granules'de formation en principe réutilisables et réagencables selon différents objectifs ou environnements." url = "http://cursus.edu/institutions-formations-ressources/formation/13493/depots-objets-apprentissage-des-millions/" auteur = "Répertoire par Thot Cursus inc." version = "" repertoire = "Oui" ressource_fonctionnement = "http://myeurope.eun.org/ww/fr/pub/myeurope/home/news/headlines/los.htm" ressource_analogue = "ECLIL : projet européen visant à regrouper un maximum de ressources pour l'apprentissage/enseignement des langues http://e-clil.uws.ac.uk/">
+		<type nom = "Répertoires d'objets d'apprentissage/Les deux" />
+		<profil nom = "Enseignant"/>
+		<profil nom = "Concepteur"/>
+		<profil nom = "Tuteur" />
+		<langue nom = "français, anglais, italien, allemand, espagnol, portugais" />
+		<activite_langagiere nom = "Compréhension orale, Compréhension écrite, Production écrite, Production orale en continu, Production orale en interaction"/> 
+	</ressource>
+	
+
+</catarina>
+
+
+

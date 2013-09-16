@@ -1,0 +1,10 @@
+DROP TABLE cat_ressource_profil; 
+DROP TABLE cat_ressource_langue; 
+DROP TABLE cat_ressource_activite; 
+DROP TABLE cat_ressource_type; 
+DROP TABLE cat_ressource; 
+DROP TABLE cat_note; 
+DROP TABLE cat_profil; 
+DROP TABLE cat_langue; 
+DROP TABLE cat_activite_langagiere; 
+DROP TABLE cat_type; 
